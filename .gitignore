@@ -1,10 +1,24 @@
-/build/
-/.gradle/
-/.idea/
-/.git/
-/gradle/
+### Instructor solutions - MUST stay ignored ###
 /solution/
-/src/.idea/
+
+### Maven ###
+target/
+
+### IntelliJ IDEA ###
+.idea/
 *.iml
-gradle*
+*.iws
+*.ipr
+out/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+bin/
+
+### VS Code ###
+.vscode/
+
+### macOS ###
 .DS_Store
