@@ -37,7 +37,7 @@ You're Jane's friend!
 Jean Claude
 
 Enter a floating-point number:
-2.34
+2.45
 ```
 
 #### Mathematical Expressions
@@ -50,9 +50,9 @@ You're Jane's friend!
 Jean Claude
 
 Enter a floating-point number:
-2.34
+2.45
 
-Well Jean Claude, the spice value resulted in 1.5047
+Well Jean Claude, the spice value resulted in 1.4815
 ```
 You should use an assignment statement to store the value of the expression.
 
@@ -81,10 +81,10 @@ You're Jane's friend!
 Jean Claude
 
 Enter a floating-point number:
-2.34
+2.45
 
-Well Jean Claude, the spice value resulted in 1.5047818732113996
-And the converted value is 1.50
+Well Jean Claude, the spice value resulted in 1.4815297665908702
+And the converted value is 1.48
 ```
 
 <div style="background-color:#22ffff; padding: 5px; margin: 5px; border-radius: 5px;">
